@@ -18,6 +18,14 @@ Ini adalah website portofolio saya yang dibangun menggunakan Laravel (atau tekno
 - **Version Control**: Git, GitHub
 - **Deployment**: Platform seperti Heroku, DigitalOcean, atau Netlify (sesuaikan dengan platform yang digunakan)
 
+## Desain website
+![alt text](https://github.com/Roczantya/AFL2--Tiffany-Tjandinegara/blob/main/public/images/Screenshot%20(202).png 'Gambar Dashboard')
+Tidak ada tampilan gambarnya di vercel 😭😭
+
+![alt text](https://github.com/Roczantya/AFL2--Tiffany-Tjandinegara/blob/main/public/images/Screenshot%20(203).png 'Gambar bagian Projek')
+Nikmati dulu gambarnya
+
+
 ## Prasyarat
 
 Sebelum memulai, pastikan kamu sudah menginstal hal-hal berikut:
