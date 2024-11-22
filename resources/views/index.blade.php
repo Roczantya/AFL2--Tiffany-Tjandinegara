@@ -21,7 +21,7 @@
         </div>
 
         <div class="home-img">
-            <img src="{{ asset('images/image.png') }}" alt="Lo">
+            <img src="https://id.pinterest.com/pin/617415430198199358/" alt="Lo">
         </div>
     </section>
 
